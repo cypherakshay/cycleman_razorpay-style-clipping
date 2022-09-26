@@ -51,7 +51,7 @@ I write the code with the proper comments to understand its reference easily to 
 
 &nbsp;
 
-[<img alt="Go Live" width="170px" src="./ReadmeAssets/live.png" />](https://cypherakshay-whats-trend.netlify.app/ "Go Live")
+[<img alt="Go Live" width="170px" src="./ReadmeAssets/live.png" />](https://cypherakshay-cycleman.netlify.app/ "Go Live")
 
 
 &nbsp;

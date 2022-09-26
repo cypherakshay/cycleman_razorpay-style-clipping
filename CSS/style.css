@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #101010;
+}
+
+/* Header-Section */
+
+header {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(0, 78, 146, 0.601),
+      rgba(0, 4, 40, 0.372)
+    ),
+    url(../images/cycleman.jpeg);
+
+  height: 80vh;
+  background-position: top;
+  background-size: cover;
+  clip-path: polygon(100% 0, 100% 76%, 91% 95%, 0 69%, 0 0);
+}
+
+header h1 {
+  color: #ffffff;
+  font-size: 125px;
+  padding-top: 280px;
+  padding-left: 250px;
+}
+
+.para {
+  color: #ffffff;
+  font-size: 30px;
+  font-style: italic;
+  margin-top: 20px;
+  margin-left: 350px;
+}
+
+/* Form-Section */
+
+.container {
+  border: 2px rgb(39, 39, 39) solid;
+  border-radius: 8px;
+
+  /* Linear-gradient */
+  background: linear-gradient(
+    to right bottom,
+    rgba(0, 78, 146, 0.498),
+    rgba(0, 4, 40, 0.445)
+  );
+
+  display: block;
+  margin-left: 300px;
+  margin-right: 1050px;
+  margin-top: -100px;
+  padding: 10px 60px;
+  justify-content: center;
+  align-items: center;
+}
+.container h1 {
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+.form-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 30px;
+  font-size: 30px;
+}
+input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 8px 10px;
+  border: 1px solid #a7a7a7b7;
+  margin-bottom: 20px;
+  width: 100%;
+  margin: 0 10px 10px 6px;
+}
+
+/* BUTTON */
+
+.btn {
+  border: 2px rgb(255, 255, 255) solid;
+  border-radius: 8px;
+  padding: 8px 24px;
+  background-color: #0b2643;
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 4px;
+}
+.btn:hover {
+  background-color: #008000;
+  border: 2px #008000 solid;
+  transition: 0.4s;
+}
+
+/* CREATOR */
+
+.creator  {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -30px;
+  margin-right: 50px;
+  color: #2b2b2bb7;
+}

@@ -17,7 +17,7 @@
 
 &nbsp;
 
-This project is a static page containing the Hero section with image and newsletter subscription form. In this project I learned to clip the hero image inspired by Razorpay website. For clipping this image I use a website (https://bennettfeely.com/clippy/) and also learned to align with flex-box, make gradient color with linear-gradient property (https://cssgradient.io/) of Css and button-hover effect which makes the task very easier.  
+This project is a static page containing the Hero section with an image and newsletter subscription form. In this project, I learned to clip the hero image inspired by the Razorpay website. For clipping this image I use a website (https://bennettfeely.com/clippy/) and also learned to align with flex-box, make gradient color with linear-gradient property (https://cssgradient.io/) of CSS and button-hover effect which makes the task very easier.  
 
 &nbsp;
 
